@@ -1,3 +1,5 @@
+![alt text](https://github.com/Blaise170/SearchLeaks/blob/master/etc/secure.jpg "Security")
+
 # SearchLeaks
 
 This basic file was created to easily and quickly search a text file line-by-line in order to find matches.
