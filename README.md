@@ -1,4 +1,4 @@
-![alt text](https://github.com/Blaise170/SearchLeaks/blob/master/etc/secure.jpg "Security")
+![Hand holding a lock](https://github.com/Blaise170/SearchLeaks/blob/master/etc/secure.jpg "Security")
 
 # SearchLeaks
 
